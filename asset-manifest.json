@@ -1,16 +1,26 @@
 {
   "files": {
-    "main.css": "/Reylemon/static/css/main.f855e6bc.css",
-    "main.js": "/Reylemon/static/js/main.74f679ad.js",
+    "main.css": "/Reylemon/static/css/main.23a4c5fb.css",
+    "main.js": "/Reylemon/static/js/main.28b2d3b7.js",
     "static/js/787.faa14dfd.chunk.js": "/Reylemon/static/js/787.faa14dfd.chunk.js",
-    "static/media/logo.svg": "/Reylemon/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/restauranfood.jpg": "/Reylemon/static/media/restauranfood.e8abf5b772b6817189aa.jpg",
+    "static/media/restaurant.jpg": "/Reylemon/static/media/restaurant.324d0f99bdf19400a0f7.jpg",
+    "static/media/lemon-breakfast.jpg": "/Reylemon/static/media/lemon-breakfast.a7f36fcd669bdb22817f.jpg",
+    "static/media/lemon-drinks.jpg": "/Reylemon/static/media/lemon-drinks.4ac157dee2f06a9ba29f.jpg",
+    "static/media/lemon-lunch.webp": "/Reylemon/static/media/lemon-lunch.cebe39e961c54d27568b.webp",
+    "static/media/lemon-desserts.jpg": "/Reylemon/static/media/lemon-desserts.5ad2606e6003069948c0.jpg",
+    "static/media/lemon-dinner.jpg": "/Reylemon/static/media/lemon-dinner.02c42e0986cb3491fa95.jpg",
+    "static/media/kosie.jpg": "/Reylemon/static/media/kosie.a2b27ac7ef6ebdd11e21.jpg",
+    "static/media/Dan.jpg": "/Reylemon/static/media/Dan.0711a6f05decc61e1a22.jpg",
+    "static/media/ayo.jpg": "/Reylemon/static/media/ayo.24e1094bc25ddc143b15.jpg",
+    "static/media/Daz.jpg": "/Reylemon/static/media/Daz.5808b531c51da3efd4a8.jpg",
     "index.html": "/Reylemon/index.html",
-    "main.f855e6bc.css.map": "/Reylemon/static/css/main.f855e6bc.css.map",
-    "main.74f679ad.js.map": "/Reylemon/static/js/main.74f679ad.js.map",
+    "main.23a4c5fb.css.map": "/Reylemon/static/css/main.23a4c5fb.css.map",
+    "main.28b2d3b7.js.map": "/Reylemon/static/js/main.28b2d3b7.js.map",
     "787.faa14dfd.chunk.js.map": "/Reylemon/static/js/787.faa14dfd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.74f679ad.js"
+    "static/css/main.23a4c5fb.css",
+    "static/js/main.28b2d3b7.js"
   ]
 }
